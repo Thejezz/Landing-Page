@@ -1,0 +1,151 @@
+ul {
+    list-style-type: none;
+}
+
+a.header-links {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+
+}
+.container-1 {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+}
+.left-container-1 {
+
+    flex: 1 1 auto;
+    margin-left: 100px;
+}
+
+.right-container-1 {
+
+    flex: 2 1 auto;
+    margin-right: 100px;
+}
+.image-placeholder {
+    padding: 250px 200px;
+    color: aliceblue;
+    background: grey;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.sign-up {
+
+    background-color: #3882F6;
+    border-radius: 7px;
+    color: #E5E7EB;
+    text-align: center;
+}
+
+.hero-text {
+
+    margin-top: 200px;
+}
+
+.box {
+    border: 5px solid #1F2937;
+    padding: 100px 100px;
+    border-radius: 12px;
+
+}
+
+.word {
+
+    width: 170px;
+}
+
+.bottom-boxes {
+
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.bottom-words {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    margin-bottom: 50px;
+}
+
+.top {
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 36px;
+    color: #1F2937;
+    margin-bottom: 50px;
+}
+.links {
+
+    display: flex;
+    gap: 30px;
+    justify-content: flex-end;
+}
+
+.container-3 {
+
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 36px;
+    font-style: "light italic";
+    color: #1F2937;
+}
+
+.quote-1{
+    width: 700px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.quote-2 {
+    margin-left: 400px;
+}
+
+.container-4-sub {
+
+    background: #3882F6;
+    margin: 100px 400px;
+    padding: 50px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+}
+
+.lines {
+    display: flex;
+    flex-direction: column;
+}
+.line1 {
+    font-size: 24px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+
+}
+
+.container-4 .container-4-sub .sign-up {
+    margin: 40px 10px;
+}
